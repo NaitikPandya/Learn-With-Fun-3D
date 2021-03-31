@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LearnWithFun</string>
+    <string name="curently_not_available">Curently not Available</string>
+    <string name="title_activity_gadget">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
